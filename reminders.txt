@@ -1,0 +1,1 @@
+python -u "d:\Pinnacle-Projects\Calander\calender.py"15|02|2026 Birthday
