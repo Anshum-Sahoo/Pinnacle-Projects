@@ -2,7 +2,6 @@ from datetime import datetime
 from playsound import playsound
 import time
 
-# Alarm Time Validation
 while True:
     alarm_time = input("Enter alarm time (HH:MM): ")
 
@@ -13,7 +12,6 @@ while True:
         print("Invalid format! Use HH:MM (e.g., 07:30)")
 
 
-# Tone Selection
 print("\nChoose Alarm Tone")
 print("1. Tone 1")
 print("2. Tone 2")
